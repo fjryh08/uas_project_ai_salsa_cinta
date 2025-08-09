@@ -1,0 +1,6 @@
+CourseID,CourseName,Dosen,Durasi,PreferensiHari
+C001,Matematika Dasar,Dr. Ahmad,2,Senin|Rabu
+C002,Pemrograman 1,Bu Sari,3,Selasa|Kamis
+C003,Sistem Basis Data,Pak Budi,2,Senin|Jumat
+C004,Algoritma,Dr. Ahmad,2,Rabu|Jumat
+C005,Kecerdasan Buatan,Bu Sari,3,Selasa|Kamis
